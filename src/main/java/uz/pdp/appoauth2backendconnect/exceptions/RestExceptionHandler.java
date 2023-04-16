@@ -1,5 +1,6 @@
 package uz.pdp.appoauth2backendconnect.exceptions;
 
+import org.aspectj.lang.annotation.Aspect;
 import org.springframework.http.HttpEntity;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ExceptionHandler;
